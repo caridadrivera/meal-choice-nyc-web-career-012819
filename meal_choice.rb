@@ -4,4 +4,3 @@
    puts meal_choice 
  end
  
- meal_choice("vegan")
